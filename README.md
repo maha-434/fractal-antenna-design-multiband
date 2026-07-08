@@ -1,4 +1,4 @@
-# Fractal Antenna Design for Multiband Applications — Disaster Communication System
+# Fractal Antenna Design for Multiband Applications — Disaster Management System
 
 A disaster management and rescue communication system that uses vibration sensing, embedded microcontroller processing, and VANET (Vehicular Ad-hoc Network) communication to maintain connectivity when conventional networks fail during disasters.
 
